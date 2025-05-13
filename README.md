@@ -1,7 +1,8 @@
 My first repository.
 
 My Favorite Series
-"Our Beloved Summer"
+"Our Beloved Summer".
+
 Our Beloved Summer is a South Korean romantic comedy-drama that was released between December 2021 and January 2022, written and directed by Lee Na-eun and Kim Yoon-jin, respectively. Choi Woo-shik stars as Choi Ung alongside Kim Da-mi as Kook Yeon-su, who previously collaborated on the film The Witch: Part 1. The Subversion.
 
 Choi Ung and Kook Yeon-su are two ex-high school classmates with vastly different personalities he's a free spirit with an artistic flair, while she's serious-minded and ambitious. Although they constantly bickered throughout the production of a high school documentary, they fall head over heels in love. However, as life becomes increasingly complicated, their love life unravels and ends abruptly without a closure.
